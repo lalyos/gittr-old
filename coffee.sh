@@ -1,1 +1,1 @@
-echo give me an capucsino
+echo give me an capuchino
